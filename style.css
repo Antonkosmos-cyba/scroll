@@ -1,0 +1,23 @@
+html {
+  scroll-behavior: smooth;
+}
+
+section {
+  width: 100vw;
+  height: 700px;
+  background: red;
+  margin-bottom: 100px;
+}
+
+a {
+  color: #fff;
+  font-size: 55px;
+  text-decoration: none;
+  text-align: center;
+  padding-top: 100px;
+  display: block;
+}
+
+.anton {
+  display: flex;
+}
