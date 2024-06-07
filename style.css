@@ -1,4 +1,4 @@
-/* @keyframes tonext {
+@keyframes tonext {
   75% {
     left: 0;
   }
@@ -14,7 +14,7 @@
   99% {
     left: 0;
   }
-} */
+}
 
 @keyframes tostart {
   75% {
